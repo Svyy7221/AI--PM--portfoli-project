@@ -1,0 +1,24 @@
+# 📏 AI Recommender System – Success Metrics
+
+To evaluate the AI Movie Recommender, I defined the following success metrics:
+
+## 1. Precision
+- Of the movies recommended, how many were actually relevant to the user?  
+- Example: If 10 movies were recommended and 7 were relevant → Precision = 70%.
+
+## 2. Recall
+- Of all the relevant movies available, how many were captured in recommendations?  
+- Example: If there are 20 relevant movies and 7 were recommended → Recall = 35%.
+
+## 3. Diversity
+- Are recommendations varied across genres, actors, and styles?  
+- Prevents the system from always suggesting only one type of movie.
+
+## 4. Engagement
+- Measured by user actions: clicks, views, or watch time on recommended movies.  
+- Helps link AI performance to business outcomes.
+
+---
+
+### 📌 Why These Metrics?
+These metrics ensure the system is not only accurate but also useful, fair, and aligned with user satisfaction and business goals.
