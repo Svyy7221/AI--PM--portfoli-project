@@ -70,3 +70,13 @@ This project highlights how an AI Product Manager:
 - Chooses an appropriate AI/ML approach.  
 - Decides on success metrics.  
 - Aligns AI outcomes with **user and business goals**.
+## 📂 Dataset
+
+This project uses the [MovieLens dataset](https://grouplens.org/datasets/movielens/).
+
+1. Download the dataset (e.g., `ml-latest-small.zip`).
+2. Extract it to your Google Drive or local machine.
+3. In Colab, upload it or mount Google Drive:
+   ```python
+   from google.colab import drive
+   drive.mount('/content/drive')
